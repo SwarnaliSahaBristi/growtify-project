@@ -1,4 +1,4 @@
-🚀 Growtify Project
+🚀Growtify Project
 
 A premium, high-conversion agency website built with a modern 3D-inspired aesthetic.
 Inspired by high-end SaaS platforms like Gradia, Growtify focuses on smooth motion, immersive UI, and a strong, brand-consistent visual identity.
